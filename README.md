@@ -1,6 +1,6 @@
-# End-to-end-Source-Code-Analysis-Generative-AI
+# Source-Code-Analysis GenAI
 
-# How to run?
+# Steps to run:
 ### STEPS:
 
 Clone the repository
